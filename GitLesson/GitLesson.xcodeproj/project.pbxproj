@@ -54,9 +54,9 @@
 		864D196622F4DD2F009368ED /* GitLesson */ = {
 			isa = PBXGroup;
 			children = (
+				864D196B22F4DD2F009368ED /* Main.storyboard */,
 				864D196722F4DD2F009368ED /* AppDelegate.swift */,
 				864D196922F4DD2F009368ED /* ViewController.swift */,
-				864D196B22F4DD2F009368ED /* Main.storyboard */,
 				864D196E22F4DD2F009368ED /* Assets.xcassets */,
 				864D197022F4DD2F009368ED /* LaunchScreen.storyboard */,
 				864D197322F4DD2F009368ED /* Info.plist */,
